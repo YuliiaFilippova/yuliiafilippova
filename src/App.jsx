@@ -50,7 +50,7 @@ function App() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/yuliia-filippova-9202a279/"
+            href="https://www.linkedin.com/in/yuliia-filippova-9202a2279/"
             target="_blank"
             className="border border-gray-700 px-6 py-3 rounded-2xl hover:border-white transition"
           >
