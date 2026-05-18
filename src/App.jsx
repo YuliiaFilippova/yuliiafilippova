@@ -172,8 +172,7 @@ function App() {
             </p>
 
             <p className="text-gray-500 leading-8 mb-8">
-              The system combines computer vision, vision-language models,
-              large language models and local text-to-speech generation
+              The system combines VLMs, LLMs and local text-to-speech generation
               to create context-aware narrations and accessible videos.
             </p>
 
@@ -306,7 +305,7 @@ function App() {
 
             <p className="text-gray-400 leading-7 mb-6">
               ML pipeline for identifying the likely native language
-              background of English-language writers using multilingual
+              background of English-language writers using
               Reddit data and linguistic n-gram features.
             </p>
 
