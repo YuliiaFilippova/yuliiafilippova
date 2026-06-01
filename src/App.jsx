@@ -92,7 +92,7 @@ function App() {
 
           <div>
             <h3 className="text-2xl font-semibold">
-              V.N. Karazin Kharkiv national University
+              V.N. Karazin Kharkiv National University
             </h3>
 
             <p className="text-gray-400">
@@ -272,11 +272,11 @@ function App() {
               </a>
 
               <a
-                href="YOUR_VIDEO_LINK"
+                href="https://www.youtube.com/watch?v=x2J2IYK3u1w"
                 target="_blank"
                 className="border border-zinc-700 px-5 py-3 rounded-2xl font-medium text-gray-200 hover:border-white transition"
               >
-                Demo Video (to be added)
+                Demo Video
               </a>
 
             </div>
@@ -583,7 +583,7 @@ function App() {
         <div className="bg-zinc-950 border border-zinc-800 rounded-3xl p-8 max-w-4xl">
 
           <p className="text-gray-400 leading-8 mb-6">
-            Co-authored a research article with Professor Lukianova
+            Co-authored a research article with Professor Tatiana Lukianova
             at V. N. Karazin Kharkiv National University (2022).
           </p>
 
@@ -609,12 +609,11 @@ function App() {
         <div className="flex flex-wrap gap-3">
 
           {[
-            "Accessibility",
             "Movie Translation",
             "Music",
             "Nature",
             "Cycling",
-            "Travel"
+            "Travelling"
           ].map((interest) => (
             <div
               key={interest}
