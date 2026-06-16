@@ -208,11 +208,11 @@ function App() {
               </a>
 
               <a
-                href="YOUR_VIDEO_LINK"
+                href="https://youtu.be/7Y4B_Su7y_k"
                 target="_blank"
                 className="border border-zinc-700 px-5 py-3 rounded-2xl font-medium text-gray-200 hover:border-white transition"
               >
-                Demo Video (to be added)
+                Demo Video
               </a>
 
             </div>
@@ -439,7 +439,7 @@ function App() {
 
           <div className="border-l border-zinc-700 pl-6">
             <h3 className="text-2xl font-semibold">
-              AI Research Intern (March 2026 - Present)
+              AI Research Intern (March 2026 - May)
             </h3>
 
             <p className="text-gray-400 mb-3">
@@ -447,7 +447,7 @@ function App() {
             </p>
 
             <p className="text-gray-500 leading-8">
-              Developing a multimodal AI system for automated audio description
+              Developed a multimodal AI system for automated audio description
               generation to improve accessibility for visually impaired users.
             </p>
           </div>
