@@ -131,10 +131,15 @@ function App() {
             "HuggingFace",
             "Ollama",
             "FastAPI",
-            "Flask",
             "React",
-            "MLOps",
-            "AWS",
+            "Vite"
+            "AWS (S3, ECR, ECS Fargate)",
+            "Terraform",
+            "Docker",
+            "DVC",
+            "MLflow",
+            "GitHub Actions",
+            "CI/CD",
             "Git",
             "R"
           ].map((skill) => (
