@@ -132,7 +132,7 @@ function App() {
             "Ollama",
             "FastAPI",
             "React",
-            "Vite"
+            "Vite",
             "AWS (S3, ECR, ECS Fargate)",
             "Terraform",
             "Docker",
