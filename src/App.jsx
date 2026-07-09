@@ -436,7 +436,7 @@ function App() {
           </div>
 
           {/* PROJECT */}
-          <div className="bg-zinc-950 border border-zinc-800 rounded-3xl p-6">
+          <div className="bg-zinc-950 border border-zinc-800 rounded-3xl p-6 md:col-span-2 md:w-[calc(50%-0.75rem)] md:justify-self-center">
 
             <h3 className="text-2xl font-semibold mb-4">
               Translator Attribution Thesis
