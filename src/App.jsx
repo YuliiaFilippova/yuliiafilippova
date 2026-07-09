@@ -34,9 +34,10 @@ function App() {
         </div>
 
         <p className="max-w-3xl text-gray-400 text-lg leading-8 mb-10">
-          Applied AI postgraduate student with hands-on experience in NLP,
-          machine learning, multimodal AI and LLM-based systems.
-          Currently developing AI accessibility solutions for visually impaired users.
+          Early-career AI and Data Science candidate with hands-on experience in machine learning, NLP, 
+          multimodal AI and LLM-based systems. Experienced in developing data-driven and AI solutions 
+          across text, vision and multimodal applications.
+
         </p>
 
         <div className="flex flex-wrap gap-4">
@@ -132,7 +133,7 @@ function App() {
             "Ollama",
             "FastAPI",
             "React",
-            "Vite"
+            "Vite",
             "AWS (S3, ECR, ECS Fargate)",
             "Terraform",
             "Docker",
@@ -321,6 +322,43 @@ function App() {
                 "NLP",
                 "SVM",
                 "Feature Engineering"
+              ].map((tech) => (
+                <div
+                  key={tech}
+                  className="bg-black border border-zinc-700 px-3 py-2 rounded-xl text-sm text-gray-300"
+                >
+                  {tech}
+                </div>
+              ))}
+            </div>
+
+          </div>
+
+                    {/* PROJECT */}
+          <div className="bg-zinc-950 border border-zinc-800 rounded-3xl p-6">
+
+            <h3 className="text-2xl font-semibold mb-4">
+              Corporate Bankruptcy Prediction
+            </h3>
+
+            <p className="text-gray-400 leading-7 mb-6">
+              Developed a machine learning pipeline for predicting corporate bankruptcy
+              using financial indicators. The project focused on imbalanced classification,
+              model comparison and evaluation with ROC-AUC, PR-AUC, precision, recall and
+              confusion matrices.
+            </p>
+
+            <div className="flex flex-wrap gap-3">
+              {[
+                "Python",
+                "Pandas",
+                "Scikit-learn",
+                "PyTorch",
+                "Random Forest",
+                "XGBoost",
+                "HistGradientBoosting",
+                "SMOTE",
+                "NN",
               ].map((tech) => (
                 <div
                   key={tech}
