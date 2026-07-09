@@ -34,7 +34,7 @@ function App() {
         </div>
 
         <p className="max-w-3xl text-gray-400 text-lg leading-8 mb-10">
-          Early-career AI and Data Science candidate with hands-on experience in machine learning, NLP, 
+          Early-career AI and Data specialist with hands-on experience in machine learning, NLP, 
           multimodal AI and LLM-based systems. Experienced in developing data-driven and AI solutions 
           across text, vision and multimodal applications.
 
