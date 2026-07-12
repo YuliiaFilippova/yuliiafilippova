@@ -9,9 +9,9 @@ function App() {
           Yuliia Filippova
         </h1>
 
-        <p className="text-2xl text-gray-300 mb-6">
+        {/* <p className="text-2xl text-gray-300 mb-6">
           Looking for an early-career role in Applied AI & Data/ML/NLP Engineering
-        </p>
+        </p> */}
 
         <div className="flex flex-col gap-2 text-gray-400 mb-8 text-lg">
 
